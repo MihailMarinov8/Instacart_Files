@@ -29,7 +29,7 @@ The rest of the products contribute a small fraction of the orders so it is best
 
 ---
 
-### 2) Product Behaviour/Volutility
+### 2) Product Behaviour/Volatility
 
 Overall,the word **"Organic"** appears to have a negative overall result,doing more harm than good.  
 This can potentially lead to an long-term category item being transfered to a short-term infrequent decision,with only a small spike in sales to offer.
