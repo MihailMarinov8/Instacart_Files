@@ -103,7 +103,7 @@ Not only that,but since there is more than a 3 item position margin from the 25t
 ---
 
 Bottom 10% of all items are ~20k in number (by ATC order)  
-Each row number in both heatmaps represent its "add to cart" order rank in relation to the other 11 products in the cart  
+Each column number in both heatmaps represent its "add to cart" order rank in relation to the other 11 products in the cart  
 The heatmap in Power BI is only of the top 12 products in order to dive in more into the top performers and how their pick order changes in between one another.  
 There is a bigger and more spread out version in Excel- its also where the data was imported from.
 
