@@ -1,17 +1,20 @@
-# **Instacart Product Performance Analysis**
+#               **Instacart Product Performance Analysis**
 
+- Conducted an in-depth analysis to re-evaluate the available data from Kaggle and pursue a short and long-term plan of action for the marketing,operations and finance teams. Used Microsoft Excel and Power BI to restructure,measure and analyse limited key performance metrics like- ATC order,Word Performance,and Product Performance,with their respective quantative results in correlation and request to all teams that utilise the outcome.
+- Showed a clear path to the designated goal,by creating a heatmap of a product's popularity in a chosen cart with the top 12 products that drive the most sales percentage-wise,achieving tangible results along with the needed steps for each individual team and lead in order to achieve a streamlined process.
+- Designed and submitted an interactive and intuitive dashboard in Power BI,where the actions are few and the insights and outcomes are many.Included custom metrics and performance indicators to contextualize information and adapt to the user's level of understanding.
 ---
 
-## **Client Background**
-
-Conducted an in-depth analysis to re-evaluate the available data from Kaggle and pursue a short and long-term plan of action for the marketing,operations and finance teams. Used Microsoft Excel and Power BI to restructure,measure and analyse limited key performance metrics like- ATC order,Word Performance,and Product Performance,with their respective quantative results in correlation and request to all teams that utilise the outcome. Showed a clear path to the designated goal,by creating a heatmap of a product's popularity in a chosen cart with the top 12 products that drive the most sales percentage-wise,achieving tangible results along with the needed steps for each individual team and lead in order to achieve a streamlined process. Designed and submitted an interactive and intuitive dashboard in Power BI,where the actions are few and the insights and outcomes are many.Included custom metrics and performance indicators to contextualize information and adapt to the user's level of understanding. Client Background Instacart is a rapidly growing retail media and delivery company in the US and Canada utilizing both a website and a mobile app.Established in 2012 by Maplebear Inc.It offers service from over 2000 retailers with nearly 100 000 stores and has a reported revenue of 3.38 billion US dollars for 2024,making it a valuable business to major investors.
+ ## **Client Background** 
+ **Instacart** is a rapidly growing retail media and delivery company in the US and Canada utilizing both a website and a mobile app.Established in 2012 by Maplebear Inc.It offers service from over 2000 retailers with nearly 100 000 stores and has a reported revenue of 3.38 billion US dollars for 2024,making it a valuable business to major investors.
 
 ---
 
 ## **Note:**
 
-The download link for the Power BI dashboard can be found here.  
-The Excel Tables can be downloaded here.  
+The download link for the Power BI dashboard can be found [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Instacart_Dashboard.pbix)  
+The Excel Tables can be downloaded [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Products_Cleaned.xlsx), [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Product_Orders_Cleaned.xlsx) and [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Product_Analysis_Cleaned.xlsx)
+
 Total data entries in excel - over **1 million**,with their respected order and product id/name.  
 **ATC order = Add to cart order**
 
