@@ -114,7 +114,7 @@ There is a bigger and more spread out version in **Excel**- its also where the d
 
 ## Negative Keyword Impact and Price Perception Effects on Product Performance
 
-- In the tables below is the calculation for the word performance of the word **Organic** and its effect on item popularity.  
+- In the tables below is the calculation for the word performance of the word **Organic** and its effect on item popularity (_a higher number is better_).  
 Here we can observe a major marketing and/or branding anomally. Usually words like **"Organic" "Vegan"** and so on boost an item's performance,but in this case it does more harm then good. The marketing team can further investigate this issue by requesting for a query in the customer app and build on that.  
 One additional observation is that the negative impact may not come from the word itself,but from **price anchoring**—customers could be associating **"Organic"** with higher prices and subconsciously filtering those items out before even evaluating them. A useful experiment would be to temporarily remove or delay the "Organic" label in the initial browsing view,and only reveal it deeper in the product page,to see whether click-through and conversion rates improve.
 
