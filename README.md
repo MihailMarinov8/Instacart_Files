@@ -12,7 +12,7 @@
 
 ## **Note:**
 
-The download link for the Power BI Dashboard can be found [here].(https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Instacart_Dashboard.pbix)  
+The download link for the Power BI Dashboard can be found [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Instacart_Dashboard.pbix)  
 The Excel Tables can be downloaded [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Products_Cleaned.xlsx), [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Product_Orders_Cleaned.xlsx) and [here](https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/f02cca8e615ad6f500f9f62fedf4bd3e4e1ba939/Product_Analysis_Cleaned.xlsx).
 
 Total data entries in Excel - over **1 million**,with their respected order and Product ID/Name.  
