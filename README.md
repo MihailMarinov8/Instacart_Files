@@ -1,5 +1,9 @@
 #               **Instacart Product Performance Analysis**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MihailMarinov8/Instacart_Files/main/instacart_dashboard_image.png" width="900"/>
+</p>
+
 - Conducted an in-depth analysis to re-evaluate the available data from Kaggle and pursue a short and long-term plan of action for the marketing,operations and finance teams. Used **Microsoft Excel and Power BI** to restructure,measure and analyse limited key performance metrics like- ATC order,Word Performance,and Product Performance,with their respective quantative results in correlation and request to all teams that utilise the outcome.
 - Showed a clear path to the designated goal,by creating a heatmap of a product's popularity in a chosen cart with the top 12 products that **drive the most sales** percentage-wise,achieving tangible results along with the needed steps for each individual team and lead in order to achieve a **streamlined process.**
 - Designed and submitted an **interactive and intuitive dashboard** in Power BI,where the actions are **few** and the insights and outcomes are **many.** Included custom metrics and performance indicators to contextualize information and **adapt to the user's level of understanding.**
